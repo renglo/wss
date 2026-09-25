@@ -1,3 +1,3 @@
 # git-convoy membership marker (repo root).
-# role: product (default if absent) | aux | bom
-role = "aux"
+# role: product (default if absent) | ops | bom
+role = "ops"
